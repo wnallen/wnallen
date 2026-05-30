@@ -2,7 +2,7 @@
 
 **Lawyer (but not yours) • New York City**
 
-I’m an in-house General Counsel and legal technologist working at the intersection of law, technology, and organizational risk. I lead the global legal function for an enterprise software company, overseeing privacy, AI governance, M&A, and third-party risk management. I hold a CIPP/E, navigate complex cross-border transactions, and obsess over where tech and law are going.
+I’m an in-house counsel and legal technologist working at the intersection of law, technology, and organizational risk. I lead the global legal function for an enterprise software company, overseeing privacy, AI governance, M&A, and third-party risk management. I hold a CIPP/E, navigate complex cross-border transactions, and obsess over where tech and law are going.
 
 ---
 
